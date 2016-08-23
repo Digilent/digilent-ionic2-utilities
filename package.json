@@ -1,0 +1,21 @@
+{
+  "name": "digilent-ionic2-utilities",
+  "version": "1.0.0",
+  "description": "Digilent created shared components for Ionic2\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C and services for Ionic2",
+  "main": "drop-down-menu.component.ts",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Digilent/digilent-ionic2-utilities.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Digilent/digilent-ionic2-utilities/issues"
+  },
+  "homepage": "https://github.com/Digilent/digilent-ionic2-utilities#readme"
+}
